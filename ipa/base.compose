@@ -1,0 +1,316 @@
+### begin xcompose.ipa.base
+## Consonants (pulmonic)
+#<p>	: "p"	p	#p : IPA 101 : LATIN SMALL LETTER P
+#<b>	: "b"	b	#b : IPA 102 : LATIN SMALL LETTER B
+#<t>	: "t"	t	#t : IPA 103
+#<d>	: "d"	d	#d : IPA 104
+<Multi_key> <r> <t>	: "ʈ"	U0288	#Mrt : IPA 105 : LATIN SMALL LETTER T WITH RETROFLEX HOOK
+<Multi_key> <r> <d> : "ɖ"	U0256	#Mrd : IPA 106 : LATIN SMALL LETTER D WITH TAIL
+#<c>	: "c"	c	#c : IPA 107
+<U21BB> <f>	: "ɟ"	U025F	#↻f : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <at> <f>	: "ɟ"	U025F	#M@f : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <less> <g>	: "ɟ"	U025F	#M<g : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <leftarrow> <g>	: "ɟ"	U025F	#M←g : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <Left> <g>	: "ɟ"	U025F	#M←g : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <minus> <U0237>	: "ɟ"	U025F	#M/ȷ : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <minus> <dead_abovedot> <j>	: "ɟ"	U025F	#M/˙j : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <minus> <period> <j>	: "ɟ"	U025F	#M/.j : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<dead_abovedot> <U0249>	: "ɟ"	U025F	#˙ɉ : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<dead_abovedot> <Multi_key> <minus> <j>	: "ɟ"	U025F	#˙M/j : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <period> <U0249>	: "ɟ"	U025F	#M.ɉ : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+<Multi_key> <period> <minus> <j>	: "ɟ"	U025F	#M./j : IPA 108 : LATIN SMALL LETTER DOTLESS J WITH STROKE
+#<k>	: "k"	k	#k : IPA 109
+#<g>	: "g"	g	#g : IPA 110 # acceptable
+<Multi_key> <colon> <g>	: "ɡ"	U0261	#M:g : IPA 110 : LATIN SMALL LETTER SCRIPT G # most correct
+#<q>	: "q"	q	#q : IPA 111
+<Multi_key> <bar> <g>	: "ɢ"	U0262	#M|g : IPA 112 : LATIN LETTER SMALL CAPITAL G
+<dead_belowdot> <question>	: "ʔ"	U0294	#.? : IPA 113 : LATIN LETTER GLOTTAL STOP
+<Multi_key> <period> <question>	: "ʔ"	U0294	#M.? : IPA 113 : LATIN LETTER GLOTTAL STOP
+#<m>	: "m"	m	#m : IPA 114
+<Multi_key> <j> <m>	: "ɱ"	U0271	#Mjm : IPA 115 : LATIN SMALL LETTER M WITH HOOK
+<Multi_key> <m> <g>	: "ɱ"	U0271	#Mmg : IPA 115 : LATIN SMALL LETTER M WITH HOOK
+#<n>	: "n"	n	#n : IPA 116
+<Multi_key> <r> <n>	: "ɳ"	U0273	#Mrn : IPA 117 : LATIN SMALL LETTER N WITH RETROFLEX HOOK
+<Multi_key> <j> <n>	: "ɲ"	U0272	#Mjn : IPA 118 : LATIN SMALL LETTER N WITH LEFT HOOK
+#<Multi_key> <n> <g>	: "ŋ"	eng #Mng : IPA 119 : LATIN SMALL LETTER ENG # defined in xcompose.std.extlatin
+<Multi_key> <bar> <n>	: "ɴ"	U0274	#M|n : IPA 120 : LATIN LETTER SMALL CAPITAL N
+<Multi_key> <bar> <b>	: "ʙ"	U0299	#M|b : IPA 121 : LATIN LETTER SMALL CAPITAL B
+#<r>	: "r"	r	#r : IPA 122
+<Multi_key> <bar> <r>	: "ʀ"	U0280	#M|r : IPA 123 : LATIN LETTER SMALL CAPITAL R
+#<Multi_key> <plus> <v>	: "ⱱ"	U2C71	#M+v : IPA 184 : LATIN SMALL LETTER V WITH RIGHT HOOK # defined in sequence lower down
+<U02DE> <r>	: "ɾ"	U027E	#˞r : IPA 124 : LATIN SMALL LETTER R WITH FISHHOOK
+<Multi_key> <plus> <r>	: "ɾ"	U027E	#M+r : IPA 124 : LATIN SMALL LETTER R WITH FISHHOOK
+<Multi_key> <r> <r>	: "ɽ"	U027D	#Mrr : IPA 125 : LATIN SMALL LETTER R WITH TAIL
+<Multi_key> <p> <h>	: "ɸ"	U0278	#Mph : IPA 126 : LATIN SMALL LETTER PHI
+<Multi_key> <less> <f>	: "ɸ"	U0278	#M<f : IPA 126 : LATIN SMALL LETTER PHI
+<Multi_key> <leftarrow> <f>	: "ɸ"	U0278	#M←f : IPA 126 : LATIN SMALL LETTER PHI
+<Multi_key> <Left> <f>	: "ɸ"	U0278	#M←f : IPA 126 : LATIN SMALL LETTER PHI
+<Multi_key> <b> <h>	: "β"	Greek_beta	#Mbh : IPA 127 : GREEK SMALL LETTER BETA
+<Multi_key> <less> <v>	: "β"	Greek_beta	#M<v : IPA 127 : GREEK SMALL LETTER BETA
+<Multi_key> <leftarrow> <v>	: "β"	Greek_beta	#M←v : IPA 127 : GREEK SMALL LETTER BETA
+<Multi_key> <Left> <v>	: "β"	Greek_beta	#M←v : IPA 127 : GREEK SMALL LETTER BETA
+#<Multi_key> <asterisk> <b>	: "β"	Greek_beta	#M*b : IPA 127 : GREEK SMALL LETTER BETA # defined in xcompose.el.la
+#<f>	: "f"	f	#f : IPA 128
+#<v>	: "v"	v	#v : IPA 129
+<Multi_key> <less> <s>	: "θ"	Greek_theta	#M<s : IPA 130 : GREEK SMALL LETTER THETA
+<Multi_key> <leftarrow> <s>	: "θ"	Greek_theta	#Ms← : IPA 130 : GREEK SMALL LETTER THETA
+<Multi_key> <Left> <s>	: "θ"	Greek_theta	#Ms← : IPA 130 : GREEK SMALL LETTER THETA
+#<Multi_key> <asterisk> <u>	: "θ"	Greek_theta	#M*u : IPA 130 : GREEK SMALL LETTER THETA # defined in xcompose.el.la
+#<Multi_key> <d> <h>	: "ð"	eth	#ð : IPA 131 : LATIN SMALL LETTER ETH # defined in xcompose.std.extlatin
+#<s>	: "s"	s	#s : IPA 132
+#<z>	: "z"	z	#z : IPA 133
+<Multi_key> <s> <h>	: "ʃ"	U0283	#Msh : IPA 134 : LATIN SMALL LETTER ESH
+<Multi_key> <z> <h>	: "ʒ"	U0292	#Mzh : IPA 135 : LATIN SMALL LETTER EZH
+<Multi_key> <r> <s>	: "ʂ"	U0282	#Mrs : IPA 136 : LATIN SMALL LETTER S WITH HOOK
+<Multi_key> <r> <z>	: "ʐ"	U0290	#Mrz : IPA 137 : LATIN SMALL LETTER Z WITH RETROFLEX HOOK
+#<dead_cedilla> <c>	: "ç"	ccedilla	#¸c : IPA 138 : LATIN SMALL LETTER C WITH CEDILLA # defined in xcompose.std.diacritics
+#<Multi_key> <comma> <c>	: "ç"	ccedilla	#M,c : IPA 138 : LATIN SMALL LETTER C WITH CEDILLA # defined in xcompose.std.diacritics
+<Multi_key> <j> <j>	: "ʝ"	U029D	#Mjj : IPA 139 : LATIN SMALL LETTER J WITH CROSSED-TAIL
+#<x>	: "x"	x	#x : IPA 140
+<Multi_key> <g> <h>	: "ɣ"	U0263	#Mgh : IPA 141 : LATIN SMALL LETTER GAMMA
+<Multi_key> <colon> <Greek_gamma>	: "ɣ"	U0263	#M:γ : IPA 141 : LATIN SMALL LETTER GAMMA
+<Multi_key> <q> <h>	: "χ"	Greek_chi	#Mqh : IPA 142 : GREEK SMALL LETTER CHI
+#<Multi_key> <asterisk> <x>	: "χ"	Greek_chi	#M*x : IPA 142 : GREEK SMALL LETTER CHI # defined in xcompose.el.la
+<U21BB> <Multi_key> <bar> <r>	: "ʁ"	U0281	#↻M|r : IPA 143 : LATIN LETTER SMALL CAPITAL INVERTED R
+<Multi_key> <at> <bar> <r>	: "ʁ"	U0281	#M@|r : IPA 143 : LATIN LETTER SMALL CAPITAL INVERTED R
+#<Multi_key> <slash> <h>	: "ħ"	U0127	#M/h : IPA 144 : LATIN SMALL LETTER H WITH STROKE # defined in xcompose.std.diacritics
+<Multi_key> <minus> <h>	: "ħ"	U0127	#M-h : IPA 144 : LATIN SMALL LETTER H WITH STROKE # defined in xcompose.std.diacritics
+<U21BB> <U0294>	: "ʕ"	U0295	#↻ʔ : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<U21BB> <dead_belowdot> <question>	: "ʕ"	U0295	#↻.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<U21BB> <Multi_key> <period> <question>	: "ʕ"	U0295	#↻M.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<Multi_key> <at> <U0294>	: "ʕ"	U0295	#M@ʔ : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<Multi_key> <at> <period> <question>	: "ʕ"	U0295	#M@.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+<Multi_key> <at> <dead_belowdot> <question>	: "ʕ"	U0295	#M@.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+#<h>	: "h"	h	#h : IPA 146
+<Multi_key> <plus> <h>	: "ɦ"	U0266	#M+h : IPA 147 : LATIN SMALL LETTER H WITH HOOK
+<Multi_key> <l> <h>	: "ɬ"	U026C	#Mlh : IPA 148 : LATIN SMALL LETTER L WITH BELT
+<Multi_key> <l> <U0292>	: "ɮ"	U026E	#Mlʒ : IPA 149 : LATIN SMALL LETTER LEZH
+<Multi_key> <l> <d>	: "ɮ"	U026E	#Mld : IPA 149 : LATIN SMALL LETTER LEZH
+<Multi_key> <l> <3>	: "ɮ"	U026E	#Ml3 : IPA 149 : LATIN SMALL LETTER LEZH
+<Multi_key> <l> <Multi_key> <z> <h>	: "ɮ"	U026E	#MlMzh : IPA 149 : LATIN SMALL LETTER LEZH
+<Multi_key> <w> <v>	: "ʋ"	U028B	#Mwv : IPA 150 : LATIN SMALL LETTER V WITH HOOK
+<U21BB> <r>	: "ɹ"	U0279	#↻r : IPA 151 : LATIN SMALL LETTER TURNED R
+<Multi_key> <at> <r>	: "ɹ"	U0279	#M@r : IPA 151 : LATIN SMALL LETTER TURNED R
+<Multi_key> <r> <U21BB> <r>	: "ɻ"	U027B	#Mr↻r : IPA 152 : LATIN SMALL LETTER TURNED R WITH HOOK
+<Multi_key> <r> <at> <r>	: "ɻ"	U027B	#Mr@r : IPA 152 : LATIN SMALL LETTER TURNED R WITH HOOK
+#<j>	: "j"	j	#j : IPA 153
+<Multi_key> <parenleft> <w>	: "ɰ"	U0270	#M(w : IPA 154 : LATIN SMALL LETTER TURNED M WITH LONG LEG
+#<l>	: "l"	l	#l : IPA 155
+<Multi_key> <r> <l>	: "ɭ"	U026D	#Mrl : IPA 156 : LATIN SMALL LETTER L WITH RETROFLEX HOOK
+<U21BB> <y>	: "ʎ"	U028E	#↻y : IPA 157 : LATIN SMALL LETTER TURNED Y
+<Multi_key> <at> <y>	: "ʎ"	U028E	#M@y : IPA 157 : LATIN SMALL LETTER TURNED Y
+<Multi_key> <j> <l>	: "ʎ"	U028E	#Mjl : IPA 157 : LATIN SMALL LETTER TURNED Y
+<Multi_key> <bar> <l>	: "ʟ"	U029F	#M|l : IPA 158 : LATIN LETTER SMALL CAPITAL L
+## Consonants (non-pulmonic)
+# Implosives
+#<Multi_key> <plus> <p>	: "ƥ"	U01A5	#M+p : IPA 159 : LATIN SMALL LETTER P WITH HOOK # deprecated, moved to xcompose.ipa.unofficial
+<U02DE> <b>	: "ɓ"	U0253	#˞b : IPA 160 : LATIN SMALL LETTER B WITH HOOK
+<Multi_key> <plus> <b>	: "ɓ"	U0253	#M+b : IPA 160 : LATIN SMALL LETTER B WITH HOOK
+#<Multi_key> <plus> <t>	: "ƭ"	U01AD	#M+t : IPA 161 : LATIN SMALL LETTER T WITH HOOK # deprecated, moved to xcompose.ipa.unofficial
+<U02DE> <d>	: "ɗ"	U0257	#˞d : IPA 162 : LATIN SMALL LETTER D WITH HOOK
+<Multi_key> <plus> <d>	: "ɗ"	U0257	#M+d : IPA 162 : LATIN SMALL LETTER D WITH HOOK
+#<Multi_key> <r> <plus> <d>	: "ᶑ"	U1D91	#Mr+d : LATIN SMALL LETTER D WITH HOOK AND TAIL # despite appearances and use, not in IPA; defined in xcompose.ipa.unofficial
+#<Multi_key> <plus> <c>	: "ƈ"	U0188	#M+c : IPA 163 : LATIN SMALL LETTER C WITH HOOK # deprecated, moved to xcompose.ipa.unofficial
+<U02DE> <U21BB> <f>	: "ʄ"	U0284	#˞↻f : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<U02DE> <dead_stroke> <dead_abovedot> <j>	: "ʄ"	U0284	#˞/˙j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <U025F>	: "ʄ"	U0284	#M+ɟ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <U0249>	: "ʄ"	U0284	#M+ɉ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <at> <f>	: "ʄ"	U0284	#M+@f : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <less> <g>	: "ʄ"	U0284	#M+<g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <leftarrow> <g>	: "ʄ"	U0284	#M+←g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <Left> <g>	: "ʄ"	U0284	#M+←g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <minus> <j>	: "ʄ"	U0284	#M+/j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <minus> <U0237>	: "ʄ"	U0284	#M+/ȷ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <minus> <dead_abovedot> <j>	: "ʄ"	U0284	#M+/˙j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <minus> <period> <j>	: "ʄ"	U0284	#M+/.j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <dead_abovedot> <U0249>	: "ʄ"	U0284	#M+˙ɉ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <dead_abovedot> <minus> <j>	: "ʄ"	U0284	#M+˙/j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <period> <U0249>	: "ʄ"	U0284	#M+.ɉ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <period> <minus> <j>	: "ʄ"	U0284	#M+./j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+#<Multi_key> <plus> <k>	: "ƙ"	U0199	#M+k : IPA 165 : LATIN SMALL LETTER K WITH HOOK # deprecated, moved to xcompose.ipa.unofficial
+<U02DE> <g>	: "ɠ"	U0260	#˞g : IPA 166 : LATIN SMALL LETTER G WITH HOOK
+<U02DE> <U0261>	: "ɠ"	U0260	#˞ɡ : IPA 166 : LATIN SMALL LETTER G WITH HOOK
+<Multi_key> <plus> <g>	: "ɠ"	U0260	#M+g : IPA 166 : LATIN SMALL LETTER G WITH HOOK
+<Multi_key> <plus> <U0261>	: "ɠ"	U0260	#M+ɡ : IPA 166 : LATIN SMALL LETTER G WITH HOOK
+<Multi_key> <plus> <colon> <g>	: "ɠ"	U0260	#M+:g : IPA 166 : LATIN SMALL LETTER G WITH HOOK
+#<Multi_key> <plus> <q>	: "ʠ"	U02A0	#M+q : IPA 167 : LATIN SMALL LETTER Q WITH HOOK # deprecated, moved to xcompose.ipa.unofficial
+<U02DE> <U0262>	: "ʛ"	U029B	#˞ɢ : IPA 168 : LATIN LETTER SMALL CAPITAL G WITH HOOK
+<U02DE> <Multi_key> <bar> <g>	: "ʛ"	U029B	#˞M|g : IPA 168 : LATIN LETTER SMALL CAPITAL G WITH HOOK
+<Multi_key> <plus> <U0262>	: "ʛ"	U029B	#M+ɢ : IPA 168 : LATIN LETTER SMALL CAPITAL G WITH HOOK
+<Multi_key> <plus> <bar> <g>	: "ʛ"	U029B	#M+|g : IPA 168 : LATIN LETTER SMALL CAPITAL G WITH HOOK
+## Other Symbols
+<U21BB> <w>	: "ʍ"	U028D	#↻w : IPA 169 : LATIN SMALL LETTER TURNED W
+<Multi_key> <at> <w>	: "ʍ"	U028D	#M@w : IPA 169 : LATIN SMALL LETTER TURNED W
+#<w>	: "w"	w	#w : IPA 170
+<U21BB> <h>	: "ɥ"	U0265	#↻h : IPA 171 : LATIN SMALL LETTER TURNED H
+<Multi_key> <at> <h>	: "ɥ"	U0265	#M@h : IPA 171 : LATIN SMALL LETTER TURNED H
+<Multi_key> <parenright> <j>	: "ɥ"	U0265	#Mwj : IPA 171 : LATIN SMALL LETTER TURNED H
+<Multi_key> <bar> <h>	: "ʜ"	U029C	#M|h : IPA 172 : LATIN LETTER SMALL CAPITAL H
+#<Multi_key> <slash> <U0294>	: "ʡ"	U02A1	#M/ʔ : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE # defined in xcompose.std.diacritics
+<dead_stroke> <U0294>	: "ʡ"	U02A1	#/ʔ : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE # defined in xcompose.std.diacritics
+<dead_stroke> <dead_belowdot> <question>	: "ʡ"	U02A1	#/.ʔ : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE # defined in xcompose.std.diacritics
+<Multi_key> <minus> <U0294>	: "ʡ"	U02A1	#M-ʔ : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE # defined in xcompose.std.diacritics
+<Multi_key> <minus> <dead_belowdot> <question>	: "ʡ"	U02A1	#M/.? : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE
+<Multi_key> <minus> <period> <question>	: "ʡ"	U02A1	#M/.? : IPA 173 : LATIN LETTER GLOTTAL STOP WITH STROKE
+<dead_stroke> <U0295>	: "ʢ"	U02A2	#/ʕ : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<dead_stroke> <U21BB> <dead_belowdot> <question>	: "ʢ"	U02A2	#/↻.? : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <minus> <U0295>	: "ʢ"	U02A2	#M/ʕ : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <minus> <at> <U0294>	: "ʢ"	U02A2	#M/@ʔ : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <minus> <at> <period> <question>	: "ʢ"	U02A2	#M/@.? : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <minus> <at> <dead_belowdot> <question>	: "ʢ"	U02A2	#M/@.? : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <at> <U02A1>	: "ʢ"	U02A2	#M@ʡ : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <at> <minus> <U0294>	: "ʢ"	U02A2	#M@/ʔ : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <at> <minus> <period> <question>	: "ʢ"	U02A2	#M@/.? : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <at> <minus> <dead_belowdot> <question>	: "ʢ"	U02A2	#M@/.? : IPA 174 : LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+<Multi_key> <U0283> <x>	: "ɧ"	U0267	#Mʃx : IPA 175 : LATIN SMALL LETTER HENG WITH HOOK
+<U02DE> <Multi_key> <h> <g>	: "ɧ"	U0267	#˞Mhg : IPA 175 : LATIN SMALL LETTER HENG WITH HOOK
+<Multi_key> <plus> <Multi_key> <h> <g>	: "ɧ"	U0267	#M+Mhg : IPA 175 : LATIN SMALL LETTER HENG WITH HOOK
+<Multi_key> <g> <plus> <h>	: "ɧ"	U0267	#Mg+h : IPA 175 : LATIN SMALL LETTER HENG WITH HOOK
+## Consonants (non-pulmonic) (cntd.)
+# Clicks
+<dead_dotabove> <0>	: "ʘ"	U0298	#˙0 : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <periodcentered> <O>	: "ʘ"	U0298	#M·O : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <Multi_key> <period> <minus> <O>	: "ʘ"	U0298	#MM.-O : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <O> <period>	: "ʘ"	U0298	#MO. : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <periodcentered> <o>	: "ʘ"	U0298	#M·o : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <Multi_key> <period> <minus> <o>	: "ʘ"	U0298	#MM.-o : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <o> <period>	: "ʘ"	U0298	#Mo. : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <colon> <bar>	: "ǀ"	U01C0	#M:| : IPA 177 : LATIN LETTER DENTAL CLICK
+<Multi_key> <colon> <exclam>	: "ǃ"	U01C3	#M:! : IPA 178 : LATIN LETTER RETROFLEX CLICK
+<Multi_key> <equal> <bar>	: "ǂ"	U01C2	#M=| : IPA 179 : LATIN LETTER ALVEOLAR CLICK
+<Multi_key> <bar> <equal>	: "ǂ"	U01C2	#M|= : IPA 179 : LATIN LETTER ALVEOLAR CLICK
+<Multi_key> <bar> <bar>	: "ǁ"	U01C1	#M|| : IPA 180 : LATIN LETTER LATERAL CLICK
+## Other Symbols (cntd.)
+<Multi_key> <l> <U21BB> <r>	: "ɺ"	U027A	#Ml↻r : IPA 181 : LATIN SMALL LETTER TURNED R WITH LONG LEG
+<Multi_key> <l> <at> <r>	: "ɺ"	U027A	#Ml@r : IPA 181 : LATIN SMALL LETTER TURNED R WITH LONG LEG
+<Multi_key> <j> <c>	: "ɕ"	U0255	#Mjc : IPA 182 : LATIN SMALL LETTER C WITH CURL
+<Multi_key> <j> <z>	: "ʑ"	U0291	#Mjz : IPA 183 : LATIN SMALL LETTER Z WITH CURL
+## Consonants (pulmonic) (cntd.)
+<U02DE> <v>	: "ⱱ"	U2C71	#˞v : IPA 184 : LATIN SMALL LETTER V WITH RIGHT HOOK
+<Multi_key> <plus> <v>	: "ⱱ"	U2C71	#M+v : IPA 184 : LATIN SMALL LETTER V WITH RIGHT HOOK
+
+## Vowels
+#<i>	: "i"	i	#i : IPA 301
+#<e>	: "e"	e	#e : IPA 302
+<Multi_key> <e> <a>	: "ɛ"	U025B	#Mea : IPA303 : LATIN SMALL LETTER OPEN E
+<Multi_key> <at> <colon> <3>	: "ɛ"	U025B	#M@:3 : IPA303 : LATIN SMALL LETTER OPEN E
+<Multi_key> <v> <e>	: "ɛ"	U025B	#Mve : IPA303 : LATIN SMALL LETTER OPEN E
+<Multi_key> <downarrow> <e>	: "ɛ"	U025B	#M↓e : IPA303 : LATIN SMALL LETTER OPEN E
+<Multi_key> <Down> <e>	: "ɛ"	U025B	#M↓e : IPA303 : LATIN SMALL LETTER OPEN E
+#<a>	: "a"	a	#a : IPA 304
+<Multi_key> <greater> <a>	: "ɑ"	U0251	#M>a : IPA 305 : LATIN SMALL LETTER ALPHA
+<Multi_key> <rightarrow> <a>	: "ɑ"	U0251	#M→a : IPA 305 : LATIN SMALL LETTER ALPHA
+<Multi_key> <Right> <a>	: "ɑ"	U0251	#M→a : IPA 305 : LATIN SMALL LETTER ALPHA
+<U21BB> <c>	: "ɔ"	U0254	#↻c : IPA 306 : LATIN SMALL LETTER OPEN O
+<Multi_key> <at> <c>	: "ɔ"	U0254	#M@c : IPA 306 : LATIN SMALL LETTER OPEN O
+<Multi_key> <v> <o>	: "ɔ"	U0254	#Mvo : IPA 306 : LATIN SMALL LETTER OPEN O
+<Multi_key> <downarrow> <o>	: "ɔ"	U0254	#M↓o : IPA 306 : LATIN SMALL LETTER OPEN O
+<Multi_key> <Down> <o>	: "ɔ"	U0254	#M↓o : IPA 306 : LATIN SMALL LETTER OPEN O
+#<o>	: "o"	o	#o : IPA 307
+#<u>	: "u"	u	#u : IPA 308
+#<y>	: "y"	y	#y : IPA 309
+#<Multi_key> <slash> <o>	: "ø"	oslash	#M/o : IPA 310 : LATIN SMALL LETTER O WITH STROKE # defined in xcompose.std.diacritics
+#<Multi_key> <o> <e>	: "œ"	oe	#Moe : IPA 311 : LATIN SMALL LIGATURE OE # defined in xcompose.std.ligatures
+<Multi_key> <bar> <oe>	: "ɶ"	U0276	#M|œ : IPA 312 : LATIN LETTER SMALL CAPITAL OE
+<Multi_key> <bar> <Multi_key> <o> <e>	: "ɶ"	U0276	#M|Moe : IPA 312 : LATIN LETTER SMALL CAPITAL OE
+<Multi_key> <parenright> <a>	: "ɶ"	U0276	#M)a : IPA 312 : LATIN LETTER SMALL CAPITAL OE
+<Multi_key> <a> <o>	: "ɒ"	U0252	#Mao : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <greater> <U0276>	: "ɒ"	U0252	#M>ɶ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <greater> <bar> <oe>	: "ɒ"	U0252	#M>|œ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <greater> <bar> <Multi_key> <o> <e>	: "ɒ"	U0252	#M>|Moe : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <greater> <parenright> <a>	: "ɒ"	U0252	#M>)a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <rightarrow> <U0276>	: "ɒ"	U0252	#M→ɶ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <rightarrow> <bar> <oe>	: "ɒ"	U0252	#M→|œ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <rightarrow> <bar> <Multi_key> <o> <e>	: "ɒ"	U0252	#M→|Moe : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <rightarrow> <parenright> <a>	: "ɒ"	U0252	#M→)a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <Right> <U0276>	: "ɒ"	U0252	#M→ɶ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <Right> <bar> <oe>	: "ɒ"	U0252	#M→|œ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <Right> <bar> <Multi_key> <o> <e>	: "ɒ"	U0252	#M→|Moe : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <Right> <parenright> <a>	: "ɒ"	U0252	#M→)a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <parenright> <U0251>	: "ɒ"	U0252	#M)ɑ : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <parenright> <greater> <a>	: "ɒ"	U0252	#M)>a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <parenright> <rightarrow> <a>	: "ɒ"	U0252	#M)>a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<Multi_key> <parenright> <Right> <a>	: "ɒ"	U0252	#M)>a : IPA 313 : LATIN SMALL LETTER TURNED ALPHA
+<U21BB> <v>	: "ʌ"	U028C	#↻v : IPA 314 : LATIN SMALL LETTER TURNED V
+<Multi_key> <at> <v>	: "ʌ"	U028C	#M@v : IPA 314 : LATIN SMALL LETTER TURNED V
+<Multi_key> <parenleft> <o>	: "ɤ"	U0264	#M(o : IPA 315 : LATIN SMALL LETTER RAMS HORN
+<U21BB> <m>	: "ɯ"	U026F	#↻m : IPA 316 : LATIN SMALL LETTER TURNED M
+<Multi_key> <at> <m>	: "ɯ"	U026F	#M@m : IPA 316 : LATIN SMALL LETTER TURNED M
+<Multi_key> <parenleft> <u>	: "ɯ"	U026F	#M(u : IPA 316 : LATIN SMALL LETTER TURNED M
+#<Multi_key> <slash> <i>	: "ɨ"	U0268	#M/i : IPA 317 : LATIN SMALL LETTER I WITH STROKE # defined in xcompose.std.diacritics
+<dead_stroke> <i>	: "ɨ"	U0268	#/i : IPA 317 : LATIN SMALL LETTER I WITH STROKE
+<Multi_key> <minus> <i>	: "ɨ"	U0268	#M-i : IPA 317 : LATIN SMALL LETTER I WITH STROKE
+<dead_stroke> <u>	: "ʉ"	U0289	#/u : IPA 318 : LATIN SMALL LETTER U BAR
+<Multi_key> <minus> <u>	: "ʉ"	U0289	#M-u : IPA 318 : LATIN SMALL LETTER U BAR
+<Multi_key> <bar> <i>	: "ɪ"	U026A	#M|i : IPA 319 : LATIN LETTER SMALL CAPITAL I
+<Multi_key> <bar> <y>	: "ʏ"	U028F	#M|y : IPA 320 : LATIN LETTER SMALL CAPITAL Y
+<Multi_key> <u> <o>	: "ʊ"	U028A	#Muo : IPA 321 : LATIN SMALL LETTER UPSILON
+<Multi_key> <multiply> <u>	: "ʊ"	U028A	#M×u : IPA 321 : LATIN SMALL LETTER UPSILON
+<Multi_key> <x> <u>	: "ʊ"	U028A	#Mxu : IPA 321 : LATIN SMALL LETTER UPSILON
+<Multi_key> <at> <bar> <asterisk> <v>	: "ʊ"	U028A	#M@|*v : IPA 321 : LATIN SMALL LETTER UPSILON
+#<Multi_key> <e> <e>	: "ə"	U0259	#Mee : IPA 322 : LATIN SMALL LETTER SCHWA # defined in xcompose.std.extlatin
+<U21BB> <e>	: "ə"	U0259	#↻e : IPA 322 : LATIN SMALL LETTER SCHWA
+<Multi_key> <at> <e>	: "ə"	U0259	#M@e : IPA 322 : LATIN SMALL LETTER SCHWA
+<Multi_key> <minus> <o>	: "ɵ"	U0275	#M-o : IPA 323 : LATIN SMALL LETTER BARRED O
+<Multi_key> <parenright> <at> <e>	: "ɵ"	U0275	#M)@e : IPA 323 : LATIN SMALL LETTER BARRED O
+<Multi_key> <less> <o>	: "ɵ"	U0275	#M<o : IPA 323 : LATIN SMALL LETTER BARRED O
+<Multi_key> <leftarrow> <o>	: "ɵ"	U0275	#M←o : IPA 323 : LATIN SMALL LETTER BARRED O
+<Multi_key> <Left> <o>	: "ɵ"	U0275	#M←o : IPA 323 : LATIN SMALL LETTER BARRED O
+<U21BB> <a>	: "ɐ"	U0250	#↻a : IPA 324 : LATIN SMALL LETTER TURNED A
+<Multi_key> <at> <a>	: "ɐ"	U0250	#M@a : IPA 324 : LATIN SMALL LETTER TURNED A
+#<Multi_key> <a> <e>	: "æ"	ae	#Mae : IPA 325 : LATIN SMALL LETTER AE
+<U21BB> <U025B>	: "ɜ"	U025C	#↻ɛ : IPA 326 : LATIN SMALL LETTER REVERSED OPEN E
+<Multi_key> <at> <U025B>	: "ɜ"	U025C	#M@ɛ : IPA 326 : LATIN SMALL LETTER REVERSED OPEN E
+<Multi_key> <colon> <3>	: "ɜ"	U025C	#M:3 : IPA 326 : LATIN SMALL LETTER REVERSED OPEN E
+
+<Multi_key> <parenright> <U025C>	: "ɞ"	U025E	#M)ɜ : IPA 395 : LATIN SMALL LETTER CLOSED REVERSED OPEN E
+<Multi_key> <o> <U025C>	: "ɞ"	U025E	#Moɜ : IPA 395 : LATIN SMALL LETTER CLOSED REVERSED OPEN E
+<Multi_key> <o> <colon> <3>	: "ɞ"	U025E	#Mo:3 : IPA 395 : LATIN SMALL LETTER CLOSED REVERSED OPEN E
+
+<U21BB> <2> <e>	: "ɘ"	U0258	#↻2ə : IPA 397 : LATIN SMALL LETTER REVERSED E
+<Multi_key> <at> <U0259>	: "ɘ"	U0258	#M@ə : IPA 397 : LATIN SMALL LETTER REVERSED E
+<Multi_key> <at> <at> <e>	: "ɘ"	U0258	#M@@e : IPA 397 : LATIN SMALL LETTER REVERSED E
+<Multi_key> <greater> <e>	: "ɘ"	U0258	#M>e : IPA 397 : LATIN SMALL LETTER REVERSED E
+<Multi_key> <rightarrow> <e>	: "ɘ"	U0258	#M→e : IPA 397 : LATIN SMALL LETTER REVERSED E
+<Multi_key> <Right> <e>	: "ɘ"	U0258	#M→e : IPA 397 : LATIN SMALL LETTER REVERSED E
+
+# Diacritics
+<Multi_key> <colon> <apostrophe>	: "ʼ"	U02BC	#M:' : IPA 401 : MODIFIER LETTER APOSTROPHE
+<Multi_key> <colon> <U2019>	: "ʼ"	U02BC	#M:’ : IPA 401 : MODIFIER LETTER APOSTROPHE
+<U21BB> <dead_abovering> <dead_abovering>	: "̥"	U0325	#↻°° : IPA 402A : COMBINING RING BELOW
+<Multi_key> <Multi_key> <dead_belowring>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+<Multi_key> <Multi_key> <Down> <dead_abovering>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+<Multi_key> <Multi_key> <Down> <o>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+<Multi_key> <Multi_key> <dead_abovering>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
+<Multi_key> <Multi_key> <o>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
+
+<dead_circumflex> <underscore> <j>	: "ʲ"	U02B2	#^_j : IPA 421 : MODIFIER LETTER SMALL J
+<dead_circumflex> <underscore> <U0263>	: "ˠ"	U02E0	#^_ɣ : IPA 422 : MODIFIER LETTER SMALL GAMMA
+<dead_circumflex> <underscore> <Multi_key> <g> <h>	: "ˠ"	U02E0	#^_Mgh : IPA 422 : MODIFIER LETTER SMALL GAMMA
+
+<U21BB> <dead_breve> <dead_breve>	: "̯"	U032F	#↻˘˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<Multi_key> <Multi_key> <at> <dead_breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<Multi_key> <Multi_key> <at> <breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<Multi_key> <Multi_key> <at> <U>	: "̯"	U032F	#MM@U : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<Multi_key> <Multi_key> <at> <b>	: "̯"	U032F	#MM@b : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<U21BB> <parenleft>	: "͡"	U0361	#↻( : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <2> <at> <dead_breve> <dead_breve>	: "͡"	U0361	#M2@˘˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <Multi_key> <2> <at> <dead_breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <Multi_key> <2> <at> <breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <Multi_key> <2> <at> <U>	: "͡"	U0361	#MM2@U : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <Multi_key> <2> <at> <b>	: "͡"	U0361	#MM2@b : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+<Multi_key> <ampersand> <l> <i> <g>	: "͡"	U0361	#M&lig : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+
+# Suprasegmentals
+<Multi_key> <bar> <apostrophe>	: "ˈ"	U02C8	#M|' : IPA 501 : MODIFIER LETTER VERTICAL LINE # primary stress
+<Multi_key> <bar> <comma>	: "ˌ"	U02CC	#M|, : IPA 502 : MODIFIER LETTER LOW VERTICAL LINE # secondary stress
+<Multi_key> <colon> <colon>	: "ː"	U02D0	#M:: : IPA 503 : MODIFIER LETTER TRIANGULAR COLON # long
+<Multi_key> <colon> <periodcentered>	: "ˑ"	U02D1	#M:· : IPA 504 : MODIFIER LETTER HALF TRIANGULAR COLON # half-long
+<Multi_key> <colon> <U2022>	: "ˑ"	U02D1	#M:• : IPA 504 : MODIFIER LETTER HALF TRIANGULAR COLON # half-long
+<Multi_key> <Multi_key> <dead_breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
+<Multi_key> <Multi_key> <breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
+<Multi_key> <Multi_key> <U>	: "̆"	U0306	#MMU : IPA 505 : COMBINING BREVE # short
+<Multi_key> <Multi_key> <b>	: "̆"	U0306	#MMb : IPA 505 : COMBINING BREVE # short
+
+
+### end xcompose.ipa.base

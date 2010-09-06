@@ -1,0 +1,18 @@
+### begin xcompose.symbols.math
+
+<Multi_key> <slash> <slash>	: "⁄"	U2044	#M// # FRACTION SLASH
+
+<Multi_key> <l> <l>	: "ℓ"	U2113	#Mll # SCRIPT SMALL L
+
+<dead_diaeresis> <dead_tilde> <space>	: "⍨"	U2368	#¨~  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+<dead_diaeresis> <asciitilde>	: "⍨"	U2368	#¨~ # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+<Multi_key> <quotedbl> <dead_tilde> <space>	: "⍨"	U2368	#M"~  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+<Multi_key> <quotedbl> <asciitilde> <space>	: "⍨"	U2368	#M"~  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+
+<Multi_key> <S> <parenleft>	: "⟅"	U27C5	#MS( # LEFT S-SHAPED BAG DELIMITER
+<Multi_key> <S> <parenright>	: "⟆"	U27C6	#MS) # RIGHT S-SHAPED BAG DELIMITER
+
+<dead_diaeresis> <minus>	: "⸚"	U2E1A	#¨- # HYPHEN WITH DIAERESIS
+<Multi_key> <quotedbl> <minus>	: "⸚"	U2E1A	#M"- # HYPHEN WITH DIAERESIS
+
+### enx xcompose.symbols.math

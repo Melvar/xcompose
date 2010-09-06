@@ -1,0 +1,5 @@
+### begin xcompose.symbols.keyboard
+
+<Multi_key> <ampersand> <BackSpace>	: "⌫"	U232B	#M&⌫ : ERASE TO THE LEFT # delete to the left, backspace symbol
+
+### end xcompose.symbols.keyboard

@@ -1,0 +1,6 @@
+### begin xcompose.symbols.arrows
+
+<Multi_key> <ampersand> <Return>	: "↵"	U21B5	#M&↵ : DOWNWARDS ARROW WITH CORNER LEFTWARDS # Return symbol
+<Multi_key> <ampersand> <KP_Enter>	: "↵"	U21B5	#M&↵ : DOWNWARDS ARROW WITH CORNER LEFTWARDS # Return symbol
+
+### end xcompose.symbols.arrows

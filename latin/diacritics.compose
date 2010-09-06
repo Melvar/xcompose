@@ -1,0 +1,16 @@
+### begin xcompose.latin.diacritics
+
+<dead_stroke> <B>	: "Ƀ"	U0243	#/B # LATIN CAPITAL LETTER B WITH STROKE
+<Multi_key> <minus> <B>	: "Ƀ"	U0243	#M-B # LATIN CAPITAL LETTER B WITH STROKE
+<Multi_key> <slash> <B>	: "Ƀ"	U0243	#M/B # LATIN CAPITAL LETTER B WITH STROKE
+<dead_stroke> <J>	: "Ɉ"	U0248	#/J # LATIN CAPITAL LETTER J WITH STROKE
+<Multi_key> <minus> <J>	: "Ɉ"	U0248	#M-J # LATIN CAPITAL LETTER J WITH STROKE
+<Multi_key> <slash> <J>	: "Ɉ"	U0248	#M/J # LATIN CAPITAL LETTER J WITH STROKE
+<dead_stroke> <j>	: "ɉ"	U0249	#/j # LATIN SMALL LETTER J WITH STROKE
+<Multi_key> <minus> <j>	: "ɉ"	U0249	#M-j # LATIN SMALL LETTER J WITH STROKE
+<Multi_key> <slash> <j>	: "ɉ"	U0249	#M/j # LATIN SMALL LETTER J WITH STROKE
+
+<dead_abovedot> <j>	: "ȷ"	U0237	#˙j # LATIN SMALL LETTER DOTLESS J
+<Multi_key> <period> <j>	: "ȷ"	U0237	#M.j # LATIN SMALL LETTER DOTLESS J
+
+### end xcompose.latin.diacritics

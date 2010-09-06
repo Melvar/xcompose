@@ -1,0 +1,66 @@
+### begin xcompose.symbols.pictograms
+
+<Multi_key> <at> <numbersign>	: "⌘"	U2318	#M@# # PLACE OF INTEREST SIGN
+
+<Multi_key> <ampersand> <s> <u> <n>	: "☀"	U2600	#M&sun # BLACK SUN WITH RAYS
+<Multi_key> <ampersand> <c> <l> <o> <u> <d>	: "☁"	U2601	#M&cloud # CLOUD
+<Multi_key> <ampersand> <u> <m> <b> <r> <l> <a>	: "☂"	U2602	#M&umbrla # UMBRELLA
+<Multi_key> <ampersand> <s> <n> <o> <w>	: "☃"	U2603	#M&snow # SNOWMAN
+<Multi_key> <ampersand> <c> <o> <m> <e> <t>	: "☄"	U2604	#M&comet # COMET
+<Multi_key> <5> <asterisk>	: "★"	U2605	#M5* # BLACK STAR
+<Multi_key> <less> <A> <greater>	: "☆"	U2606	#M<A> # WHITE STAR
+
+<Multi_key> <ampersand> <t> <e> <l>	: "☎"	U260E	#M&tel # BLACK TELEPHONE
+
+<Multi_key> <ampersand> <t> <e> <a>	: "☕"	U2615	#M&tea # HOT BEVERAGE
+
+<Multi_key> <ampersand> <s> <h> <a> <m> <r> <o> <c> <k>	: "☘"	U2618	#M&shamrock # SHAMROCK
+<Multi_key> <ampersand> <s> <h> <m> <r> <c> <k>	: "☘"	U2618	#M&shmrck # SHAMROCK
+<Multi_key> <ampersand> <k> <l> <e> <e>	: "☘"	U2618	#M&klee # SHAMROCK
+
+<Multi_key> <ampersand> <p> <o> <i> <s> <o> <n>	: "☠"	U2620	#M&poison # SKULL AND CROSSBONES
+
+<Multi_key> <ampersand> <r> <a> <d>	: "☢"	U2622	#M&rad # RADIOACTIVE SIGN
+<Multi_key> <ampersand> <b> <i> <o>	: "☣"	U2623	#M&bio # BIOHAZARD SIGN
+<Multi_key> <ampersand> <c> <d> <c> <s>	: "☤"	U2624	#M&cdcs # CADUCEUS
+<Multi_key> <ampersand> <a> <n> <k> <h>	: "☥"	U2625	#M&ankh # ANKH
+
+<Multi_key> <ampersand> <c> <c> <c> <p>	: "☭"	U262D	#M&cccp # HAMMER AND SICKLE
+<Multi_key> <ampersand> <s> <s> <s> <r>	: "☭"	U262D	#M&sssr # HAMMER AND SICKLE
+<Multi_key> <ampersand> <u> <d> <s> <s> <r>	: "☭"	U262D	#M&udssr # HAMMER AND SICKLE
+<Multi_key> <ampersand> <p> <c>	: "☮"	U262E	#M&pc # PEACE SYMBOL
+<Multi_key> <ampersand> <p> <e> <a> <c> <e>	: "☮"	U262E	#M&peace # PEACE SYMBOL
+<Multi_key> <ampersand> <p> <a> <x>	: "☮"	U262E	#M&pax # PEACE SYMBOL
+<Multi_key> <ampersand> <y> <y>	: "☯"	U262F	#M&yy # YIN YANG
+<Multi_key> <ampersand> <t> <a> <i> <j> <i> <t> <u>	: "☯"	U262F	#M&taijitu # YIN YANG
+
+<Multi_key> <colon> <parenright>	: "☺"	U263A	#M:) # WHITE SMILING FACE
+<Multi_key> <parenleft> <colon>	: "☻"	U263B	#M(: # BLACK SMILING FACE
+<Multi_key> <colon> <parenleft>	: "☹"	U2639	#M:( # WHITE FROWNING FACE
+
+<Multi_key> <minus> <E>	: "♠"	U2660	#M-E # BLACK SPADE SUIT
+<Multi_key> <E> <greater>	: "♡"	U2661	#ME> # WHITE HEART SUIT
+<Multi_key> <less> <greater>	: "♢"	U2662	#M<> # WHITE DIAMOND SUIT
+<Multi_key> <minus> <8> <o>	: "♣"	U2663	#M-8o # BLACK CLUB SUIT
+<Multi_key> <less> <3>	: "♥"	U2665	#M<3 # BLACK HEART SUIT
+
+<Multi_key> <bracketleft> <1> <bracketright>	: "⚀"	U2680	#M[1] # DIE FACE-1
+<Multi_key> <bracketleft> <2> <bracketright>	: "⚁"	U2681	#M[2] # DIE FACE-2
+<Multi_key> <bracketleft> <3> <bracketright>	: "⚂"	U2682	#M[3] # DIE FACE-3
+<Multi_key> <bracketleft> <4> <bracketright>	: "⚃"	U2683	#M[4] # DIE FACE-4
+<Multi_key> <bracketleft> <5> <bracketright>	: "⚄"	U2684	#M[5] # DIE FACE-5
+<Multi_key> <bracketleft> <6> <bracketright>	: "⚅"	U2685	#M[6] # DIE FACE-6
+
+<Multi_key> <ampersand> <a> <t> <o> <m>	: "⚛"	U269B	#M&atom # ATOM SYMBOL
+<Multi_key> <ampersand> <f> <d> <l>	: "⚜"	U269C	#M&fdl # FLEUR-DE-LIS
+<Multi_key> <ampersand> <A> <A> <A> <A> <A>	: "⚝"	U269D	#M&AAAAA # OUTLINED WHITE STAR (pentalpha, get it?)
+
+<Multi_key> <slash> <exclam> <backslash>	: "⚠"	U26A0	#M/!\ # WARNING SIGN
+<Multi_key> <ampersand> <z> <a> <p>	: "⚡"	U26A1	#M&zap # HIGH VOLTAGE SIGN 
+
+<Multi_key> <ampersand> <p> <l> <a> <n> <e>	: "✈"	U2708	#M&plane # AIRPLANE
+<Multi_key> <ampersand> <m> <a> <i> <l>	: "✉"	U2709	#M&mail # ENVELOPE
+
+<Multi_key> <ampersand> <p> <a> <l> <m>	: "⸙"	U2E19	#M&palm # PALM BRANCH
+
+### end xcompose.symbols.pictograms

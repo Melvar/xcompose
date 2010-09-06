@@ -1,0 +1,9 @@
+### begin xcompose.latin.ligatures
+
+<Multi_key> <S> <S>	: "ẞ"	U1E9E	#MSS # LATIN CAPITAL LETTER SHARP S
+
+<Multi_key> <s> <t>	: "ﬆ"	UFB06	#Mst # LATIN SMALL LIGATURE ST
+<Multi_key> <f> <t>	: "ﬅ"	UFB05	#Mft # LATIN SMALL LIGATURE LONG S T
+<Multi_key> <U017F> <t>	: "ﬅ"	UFB05	#Mſt # LATIN SMALL LIGATURE LONG S T
+
+### end xcompose.latin.ligatures

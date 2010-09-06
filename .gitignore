@@ -1,0 +1,11 @@
+
+
+ideas.compose
+std/
+sequences
+
+xcompose
+*.composes
+
+*~
+

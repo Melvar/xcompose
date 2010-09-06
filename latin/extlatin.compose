@@ -1,0 +1,9 @@
+### begin xcompose.latin.extlatin
+
+<Multi_key> <at> <F>	: "ꟻ"	UA7FB	#M@F # LATIN EPIGRAPHIC LETTER REVERSED F
+<Multi_key> <at> <P>	: "ꟼ"	UA7FC	#M@P # LATIN EPIGRAPHIC LETTER REVERSED P
+<Multi_key> <colon> <at> <M>	: "ꟽ"	UA7FD	#M:@M # LATIN EPIGRAPHIC LETTER INVERTED M
+<Multi_key> <I> <bar>	: "ꟾ"	UA7FE	#MI| # LATIN EPIGRAPHIC LETTER I LONGA
+<Multi_key> <M> <slash> : "ꟿ"	UA7FF	#MM/ # LATIN EPIGRAPHIC LETTER ARCHAIC M
+
+### end xcompose.latin.extlatin
