@@ -170,10 +170,12 @@
 # Clicks
 <dead_dotabove> <0>	: "ʘ"	U0298	#˙0 : IPA 176 : LATIN LETTER BILABIAL CLICK
 <Multi_key> <periodcentered> <O>	: "ʘ"	U0298	#M·O : IPA 176 : LATIN LETTER BILABIAL CLICK
-<Multi_key> <Multi_key> <period> <minus> <O>	: "ʘ"	U0298	#MM.-O : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <U2022> <O>	: "ʘ"	U0298	#M•O : IPA 176 : LATIN LETTER BILABIAL CLICK
+#<Multi_key> <Multi_key> <period> <minus> <O>	: "ʘ"	U0298	#MM.-O : IPA 176 : LATIN LETTER BILABIAL CLICK
 <Multi_key> <O> <period>	: "ʘ"	U0298	#MO. : IPA 176 : LATIN LETTER BILABIAL CLICK
 <Multi_key> <periodcentered> <o>	: "ʘ"	U0298	#M·o : IPA 176 : LATIN LETTER BILABIAL CLICK
-<Multi_key> <Multi_key> <period> <minus> <o>	: "ʘ"	U0298	#MM.-o : IPA 176 : LATIN LETTER BILABIAL CLICK
+<Multi_key> <U2022> <o>	: "ʘ"	U0298	#M•o : IPA 176 : LATIN LETTER BILABIAL CLICK
+#<Multi_key> <Multi_key> <period> <minus> <o>	: "ʘ"	U0298	#MM.-o : IPA 176 : LATIN LETTER BILABIAL CLICK
 <Multi_key> <o> <period>	: "ʘ"	U0298	#Mo. : IPA 176 : LATIN LETTER BILABIAL CLICK
 <Multi_key> <colon> <bar>	: "ǀ"	U01C0	#M:| : IPA 177 : LATIN LETTER DENTAL CLICK
 <Multi_key> <colon> <exclam>	: "ǃ"	U01C3	#M:! : IPA 178 : LATIN LETTER RETROFLEX CLICK
