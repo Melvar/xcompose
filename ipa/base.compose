@@ -278,27 +278,27 @@
 <Multi_key> <colon> <apostrophe>	: "ʼ"	U02BC	#M:' : IPA 401 : MODIFIER LETTER APOSTROPHE
 <Multi_key> <colon> <U2019>	: "ʼ"	U02BC	#M:’ : IPA 401 : MODIFIER LETTER APOSTROPHE
 <U21BB> <dead_abovering> <dead_abovering>	: "̥"	U0325	#↻°° : IPA 402A : COMBINING RING BELOW
-<Multi_key> <Multi_key> <dead_belowring>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
-<Multi_key> <Multi_key> <Down> <dead_abovering>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
-<Multi_key> <Multi_key> <Down> <o>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
-<Multi_key> <Multi_key> <dead_abovering>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
-<Multi_key> <Multi_key> <o>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
+#<Multi_key> <Multi_key> <dead_belowring>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+#<Multi_key> <Multi_key> <Down> <dead_abovering>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+#<Multi_key> <Multi_key> <Down> <o>	: "̥"	U0325	#MM˳ : IPA 402A : COMBINING RING BELOW
+#<Multi_key> <Multi_key> <dead_abovering>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
+#<Multi_key> <Multi_key> <o>	: "̊"	U030A	#MM˚ : IPA 402B : COMBINING RING ABOVE
 
 <dead_circumflex> <underscore> <j>	: "ʲ"	U02B2	#^_j : IPA 421 : MODIFIER LETTER SMALL J
 <dead_circumflex> <underscore> <U0263>	: "ˠ"	U02E0	#^_ɣ : IPA 422 : MODIFIER LETTER SMALL GAMMA
 <dead_circumflex> <underscore> <Multi_key> <g> <h>	: "ˠ"	U02E0	#^_Mgh : IPA 422 : MODIFIER LETTER SMALL GAMMA
 
-<U21BB> <dead_breve> <dead_breve>	: "̯"	U032F	#↻˘˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
-<Multi_key> <Multi_key> <at> <dead_breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
-<Multi_key> <Multi_key> <at> <breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
-<Multi_key> <Multi_key> <at> <U>	: "̯"	U032F	#MM@U : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
-<Multi_key> <Multi_key> <at> <b>	: "̯"	U032F	#MM@b : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+<U21BB> <2> <dead_breve> <dead_breve>	: "̯"	U032F	#↻2˘˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+#<Multi_key> <Multi_key> <at> <dead_breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+#<Multi_key> <Multi_key> <at> <breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+#<Multi_key> <Multi_key> <at> <U>	: "̯"	U032F	#MM@U : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
+#<Multi_key> <Multi_key> <at> <b>	: "̯"	U032F	#MM@b : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
 <U21BB> <parenleft>	: "͡"	U0361	#↻( : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
 <Multi_key> <2> <at> <dead_breve> <dead_breve>	: "͡"	U0361	#M2@˘˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
-<Multi_key> <Multi_key> <2> <at> <dead_breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
-<Multi_key> <Multi_key> <2> <at> <breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
-<Multi_key> <Multi_key> <2> <at> <U>	: "͡"	U0361	#MM2@U : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
-<Multi_key> <Multi_key> <2> <at> <b>	: "͡"	U0361	#MM2@b : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+#<Multi_key> <Multi_key> <2> <at> <dead_breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+#<Multi_key> <Multi_key> <2> <at> <breve>	: "͡"	U0361	#MM2@˘ : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+#<Multi_key> <Multi_key> <2> <at> <U>	: "͡"	U0361	#MM2@U : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
+#<Multi_key> <Multi_key> <2> <at> <b>	: "͡"	U0361	#MM2@b : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
 <Multi_key> <ampersand> <l> <i> <g>	: "͡"	U0361	#M&lig : IPA 433 : COMBINING DOUBLE INVERTED BREVE #=ligature tie
 
 # Suprasegmentals
@@ -307,10 +307,10 @@
 <Multi_key> <colon> <colon>	: "ː"	U02D0	#M:: : IPA 503 : MODIFIER LETTER TRIANGULAR COLON # long
 <Multi_key> <colon> <periodcentered>	: "ˑ"	U02D1	#M:· : IPA 504 : MODIFIER LETTER HALF TRIANGULAR COLON # half-long
 <Multi_key> <colon> <U2022>	: "ˑ"	U02D1	#M:• : IPA 504 : MODIFIER LETTER HALF TRIANGULAR COLON # half-long
-<Multi_key> <Multi_key> <dead_breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
-<Multi_key> <Multi_key> <breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
-<Multi_key> <Multi_key> <U>	: "̆"	U0306	#MMU : IPA 505 : COMBINING BREVE # short
-<Multi_key> <Multi_key> <b>	: "̆"	U0306	#MMb : IPA 505 : COMBINING BREVE # short
+#<Multi_key> <Multi_key> <dead_breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
+#<Multi_key> <Multi_key> <breve>	: "̆"	U0306	#MM˘ : IPA 505 : COMBINING BREVE # short
+#<Multi_key> <Multi_key> <U>	: "̆"	U0306	#MMU : IPA 505 : COMBINING BREVE # short
+#<Multi_key> <Multi_key> <b>	: "̆"	U0306	#MMb : IPA 505 : COMBINING BREVE # short
 
 
 ### end xcompose.ipa.base
