@@ -65,7 +65,7 @@
 <Multi_key> <r> <z>	: "ʐ"	U0290	#Mrz : IPA 137 : LATIN SMALL LETTER Z WITH RETROFLEX HOOK
 #<dead_cedilla> <c>	: "ç"	ccedilla	#¸c : IPA 138 : LATIN SMALL LETTER C WITH CEDILLA # defined in xcompose.std.diacritics
 #<Multi_key> <comma> <c>	: "ç"	ccedilla	#M,c : IPA 138 : LATIN SMALL LETTER C WITH CEDILLA # defined in xcompose.std.diacritics
-<Multi_key> <U2113> <j>	: "ʝ"	U029D	#Mjj : IPA 139 : LATIN SMALL LETTER J WITH CROSSED-TAIL
+<Multi_key> <U2113> <j>	: "ʝ"	U029D	#♫ℓj : IPA 139 : LATIN SMALL LETTER J WITH CROSSED-TAIL
 #<x>	: "x"	x	#x : IPA 140
 <Multi_key> <g> <h>	: "ɣ"	U0263	#Mgh : IPA 141 : LATIN SMALL LETTER GAMMA
 <Multi_key> <colon> <Greek_gamma>	: "ɣ"	U0263	#M:γ : IPA 141 : LATIN SMALL LETTER GAMMA
