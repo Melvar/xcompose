@@ -119,10 +119,10 @@
 <Multi_key> <plus> <less> <g>	: "ʄ"	U0284	#M+<g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
 <Multi_key> <plus> <leftarrow> <g>	: "ʄ"	U0284	#M+←g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
 <Multi_key> <plus> <Left> <g>	: "ʄ"	U0284	#M+←g : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
-<Multi_key> <plus> <minus> <j>	: "ʄ"	U0284	#M+/j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
-<Multi_key> <plus> <minus> <U0237>	: "ʄ"	U0284	#M+/ȷ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
-<Multi_key> <plus> <minus> <dead_abovedot> <j>	: "ʄ"	U0284	#M+/˙j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
-<Multi_key> <plus> <minus> <period> <j>	: "ʄ"	U0284	#M+/.j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <slash> <j>	: "ʄ"	U0284	#M+/j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <slash> <U0237>	: "ʄ"	U0284	#M+/ȷ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <slash> <dead_abovedot> <j>	: "ʄ"	U0284	#M+/˙j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+<Multi_key> <plus> <slash> <period> <j>	: "ʄ"	U0284	#M+/.j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
 <Multi_key> <plus> <dead_abovedot> <U0249>	: "ʄ"	U0284	#M+˙ɉ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
 <Multi_key> <plus> <dead_abovedot> <minus> <j>	: "ʄ"	U0284	#M+˙/j : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
 <Multi_key> <plus> <period> <U0249>	: "ʄ"	U0284	#M+.ɉ : IPA 164 : LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
