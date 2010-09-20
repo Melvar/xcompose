@@ -82,6 +82,7 @@
 <Multi_key> <at> <period> <question>	: "ʕ"	U0295	#M@.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
 <Multi_key> <at> <dead_belowdot> <question>	: "ʕ"	U0295	#M@.? : IPA 145 : LATIN LETTER PHARYNGEAL VOICED FRICATIVE
 #<h>	: "h"	h	#h : IPA 146
+<U02DE> <h>	: "ɦ"	U0266	#˞h : IPA 147 : LATIN SMALL LETTER H WITH HOOK
 <Multi_key> <plus> <h>	: "ɦ"	U0266	#M+h : IPA 147 : LATIN SMALL LETTER H WITH HOOK
 <Multi_key> <l> <h>	: "ɬ"	U026C	#Mlh : IPA 148 : LATIN SMALL LETTER L WITH BELT
 <Multi_key> <l> <U0292>	: "ɮ"	U026E	#Mlʒ : IPA 149 : LATIN SMALL LETTER LEZH
