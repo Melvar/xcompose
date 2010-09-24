@@ -291,6 +291,7 @@
 <dead_circumflex> <underscore> <U0263>	: "ˠ"	U02E0	#^_ɣ : IPA 422 : MODIFIER LETTER SMALL GAMMA
 <dead_circumflex> <underscore> <Multi_key> <g> <h>	: "ˠ"	U02E0	#^_Mgh : IPA 422 : MODIFIER LETTER SMALL GAMMA
 
+<Multi_key> <ampersand> <s> <y> <l>	: "̩"	U0329	#♫&syl : IPA 431 : COMBINING VERTICAL LINE BELOW # syllabic
 <U21BB> <2> <dead_breve> <dead_breve>	: "̯"	U032F	#↻2˘˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
 #<Multi_key> <Multi_key> <at> <dead_breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
 #<Multi_key> <Multi_key> <at> <breve>	: "̯"	U032F	#MM@˘ : IPA 432 : COMBINING INVERTED BREVE BELOW # asyllabic
