@@ -4,6 +4,8 @@
 
 <Multi_key> <l> <l>	: "ℓ"	U2113	#Mll # SCRIPT SMALL L
 
+<Multi_key> <ampersand> <q> <e> <d>	: "∎"	U220E	#♫&qed	# END OF PROOF
+
 <dead_diaeresis> <dead_tilde> <space>	: "⍨"	U2368	#¨~  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
 <dead_diaeresis> <asciitilde>	: "⍨"	U2368	#¨~ # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
 <Multi_key> <quotedbl> <dead_tilde> <space>	: "⍨"	U2368	#M"~  # APL FUNCTIONAL SYMBOL TILDE DIAERESIS
