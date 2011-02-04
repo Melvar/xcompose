@@ -6280,7 +6280,7 @@
 <dead_stroke> <leftarrow>                                   : "↚"   U219A # LEFTWARDS ARROW WITH STROKE
 <Multi_key> <slash> <leftarrow>                             : "↚"   U219A # LEFTWARDS ARROW WITH STROKE
 <dead_stroke> <rightarrow>                                  : "↛"   U219B # RIGHTWARDS ARROW WITH STROKE
-<Multi_key> <slash> <rightarrow                             : "↛"   U219B # RIGHTWARDS ARROW WITH STROKE
+<Multi_key> <slash> <rightarrow>                            : "↛"   U219B # RIGHTWARDS ARROW WITH STROKE
 <dead_stroke> <U2194>                                       : "↮"   U21AE # LEFT RIGHT ARROW WITH STROKE
 <Multi_key> <slash> <U2194>                                 : "↮"   U21AE # LEFT RIGHT ARROW WITH STROKE
 <Multi_key> <slash> <U2203>                                 : "∄"   U2204 # THERE DOES NOT EXIST
