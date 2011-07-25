@@ -6330,7 +6330,7 @@
 <dead_stroke> <Multi_key> <bar> <minus>                     : "⊬"   U22AC # DOES NOT PROVE
 <dead_stroke> <Multi_key> <bar> <equal>                     : "⊭"   U22AD # NOT TRUE
 <dead_stroke> <Multi_key> <bar> <KP_Equal>                  : "⊭"   U22AD # NOT TRUE
-⃗
+
 # arrows
 <Multi_key> <less> <minus>                     : "←"   U2190 # LEFTWARDS ARROW
 <U21BB> <rightarrow>                           : "←"   U2190 # LEFTWARDS ARROW
